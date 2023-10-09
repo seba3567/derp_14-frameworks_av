@@ -282,8 +282,6 @@ public:
     // Shared utilities
     static binder::Status filterGetInfoErrorCode(status_t err);
 
-    static std::string getCurrPackageName();
-
     /////////////////////////////////////////////////////////////////////
     // CameraClient functionality
 
